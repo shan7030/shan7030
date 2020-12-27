@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Shantanu 👋
 
-<!--
-**shan7030/shan7030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm an innovative Full stack developer, always in search of knowledge and experience.
 
-Here are some ideas to get you started:
+### Technology Stack :
+- Angular
+- Python
+- Typescript, Javascript
+- PostgreSQL, MSSQL
+- Express, Node.js, FastAPI
+- Firebase
+- Java(Android Applictions)
+- C++(Competitive Programming)
+    
+<!--START_SECTION:activity-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Happy coding 👨‍💻 
+
+
+
+
+
