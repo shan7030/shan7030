@@ -9,12 +9,7 @@
 - PostgreSQL, MSSQL
 - Express, Node.js, FastAPI
 - Firebase
-- Java(Android Applictions)
+- Java(Android Applications)
 - C++(Competitive Programming)
 
 ### Happy coding 👨‍💻 
-
-
-
-
-
