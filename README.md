@@ -11,8 +11,6 @@
 - Firebase
 - Java(Android Applictions)
 - C++(Competitive Programming)
-    
-<!--START_SECTION:activity-->
 
 ### Happy coding 👨‍💻 
 
